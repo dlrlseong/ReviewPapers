@@ -6,7 +6,7 @@ This is my memory of reading papers
 
 ### Image to 3D & Text to 3D
 
-- [MVGamba](https://arxiv.org/abs/2406.06521) (10.Jun.arXiv2024)
+- [MVGamba](https://arxiv.org/pdf/2406.06367) (10.Jun.arXiv2024)
 MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
 - [Tet-Splatting](https://github.com/fudan-zvg/tet-splatting) (03.Jun.arXiv2024)
 Tetrahedron Splatting for 3D Generation
